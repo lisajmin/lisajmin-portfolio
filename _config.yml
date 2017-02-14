@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "http://lisajmin.com"
-url: "http://lisajmin.github.io"
+baseurl: ""
+url: "http://www.lisajmin.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
