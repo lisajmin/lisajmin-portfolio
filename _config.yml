@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+baseurl: "http://lisajmin.com" # the subpath of your site, e.g. /blog/ (optional)
 url: "http://lisajmin.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
